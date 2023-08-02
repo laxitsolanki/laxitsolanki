@@ -13,6 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="/https://laxitsolanki.github.io/myresume/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://laxitsolanki.github.io/myresume/" height="30" width="40" /></a>
 <a href="https://twitter.com/laxit solanki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="laxit solanki" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/laxit solanki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="laxit solanki" height="30" width="40" /></a>
 </p>
