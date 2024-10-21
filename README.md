@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm LaxitSolanki</h1>
-<h2>📖 I’m IT Student</h2>
+<h2>📖 I’m IT Devloper</h2>
 <h3>🌱 I’m currently learning React js , Node js</h3> 
 <h3>👯 I’m looking to collaborate with other developers</h3>
 <h3>👀 I’m interested in Web Devlopment</h3>
